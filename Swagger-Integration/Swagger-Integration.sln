@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger-Integration", "Swagger-Integration\Swagger-Integration.csproj", "{DDF42C23-CEF0-4559-A87E-C00ABD6D607B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDF42C23-CEF0-4559-A87E-C00ABD6D607B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDF42C23-CEF0-4559-A87E-C00ABD6D607B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDF42C23-CEF0-4559-A87E-C00ABD6D607B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDF42C23-CEF0-4559-A87E-C00ABD6D607B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF97E38E-213F-4677-B014-31A58C382056}
+	EndGlobalSection
+EndGlobal

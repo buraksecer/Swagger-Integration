@@ -1,0 +1,14 @@
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.deps.json
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.runtimeconfig.json
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.runtimeconfig.dev.json
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.dll
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.pdb
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.csprojAssemblyReference.cache
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.csproj.CoreCompileInputs.cache
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.RazorAssemblyInfo.cache
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.RazorAssemblyInfo.cs
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.AssemblyInfoInputs.cache
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.AssemblyInfo.cs
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.RazorTargetAssemblyInfo.cache
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.dll
+C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.pdb
