@@ -12,3 +12,17 @@ C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj
 C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.RazorTargetAssemblyInfo.cache
 C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.dll
 C:\Users\SodyumNotebook\source\repos\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.pdb
+F:\GitProject\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.deps.json
+F:\GitProject\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.runtimeconfig.json
+F:\GitProject\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.runtimeconfig.dev.json
+F:\GitProject\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.dll
+F:\GitProject\Swagger-Integration\Swagger-Integration\bin\Debug\netcoreapp2.2\Swagger-Integration.pdb
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.csprojAssemblyReference.cache
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.csproj.CoreCompileInputs.cache
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.RazorAssemblyInfo.cache
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.RazorAssemblyInfo.cs
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.AssemblyInfoInputs.cache
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.AssemblyInfo.cs
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.RazorTargetAssemblyInfo.cache
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.dll
+F:\GitProject\Swagger-Integration\Swagger-Integration\obj\Debug\netcoreapp2.2\Swagger-Integration.pdb
