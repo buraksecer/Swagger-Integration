@@ -43,6 +43,13 @@ namespace Swagger_Integration.Infrastructure
 
         public static IApplicationBuilder UseSwaggerDocumentation(this IApplicationBuilder app)
         {
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1.0/swagger.json", "Swagger API v1.0");
+                c.DocumentTitle = "Swagger for .Net Core";
+                c.DocExpansion(Swashbuckle.AspNetCore.SwaggerUI.DocExpansion.None);
+            });
             return app;
         }
     }
