@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
 using System.Collections.Generic;
 
@@ -38,6 +39,11 @@ namespace Swagger_Integration.Infrastructure
                 c.OrderActionsBy((apiDesc) => $"{apiDesc.ActionDescriptor.RouteValues["controller"]}_{apiDesc.HttpMethod}");
             });
             return services;
+        }
+
+        public static IApplicationBuilder UseSwaggerDocumentation(this IApplicationBuilder app)
+        {
+            return app;
         }
     }
 }
