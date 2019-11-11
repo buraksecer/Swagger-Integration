@@ -1,2 +1,1 @@
-"# Swagger-Integration" 
-# Swagger-Integration
+Swagger for .Net Core Api
