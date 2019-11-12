@@ -25,7 +25,7 @@ namespace Swagger_Integration.Controllers
             return "value";
         }
 
-        // POST api/values
+        // POST api/valuess
         [HttpPost]
         public void Post([FromBody] string value)
         {
