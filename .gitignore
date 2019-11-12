@@ -3,3 +3,5 @@
 ################################################################################
 
 /Swagger-Integration/.vs/Swagger-Integration/v15
+/Swagger-Integration/Swagger-Integration/obj/Release/netcoreapp2.2
+/DomainDrivenDesign/.vs/DomainDrivenDesign/v15/Server/sqlite3/db.lock
